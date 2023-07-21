@@ -1,5 +1,4 @@
 #include "variadic_functions.h"
-
 /**
  * print_numbers - prints function arguments
  * @separator: the separation string
@@ -7,7 +6,6 @@
  *
  * Return: void
  */
-
 void print_numbers(const char *separator, const unsigned int n, ...)
 {
 	int val = 0;
