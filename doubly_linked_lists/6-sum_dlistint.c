@@ -2,7 +2,7 @@
 
 /**
  * sum_dlistint - returns the sum of all the data of a linked list
- * @head: first node of the list 
+ * @head: first node of the list
  * Return: sum of all the data or 0 if its empty
  */
 int sum_dlistint(dlistint_t *head)
