@@ -3,6 +3,13 @@
 #include <stdlib.h>
 #include <unistd.h>
 
+/**
+* read_textfile - read text from file
+* @filename: file name
+* @letters: the content
+* Return: number of characters and printed
+*/
+
 ssize_t read_textfile(const char *filename, size_t letters)
 {
 
