@@ -2,7 +2,6 @@
 #define MAIN_H
 
 #include "main.h"
-#include "lists.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

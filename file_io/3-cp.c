@@ -1,9 +1,9 @@
 #include "main.h"
-#include "lists.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
 #include <fcntl.h>
+#include <stdarg.h>
 
 #define BUFFER_SIZE 1024
 
@@ -12,11 +12,14 @@
  * @exit_code: The exit code to use.
  * @format: The format string for the error message.
  */
-void error_and_exit(int exit_code, const char *format, ...) {
+void error_and_exit(int exit_code, const char *format, ...)
+{
 	va_list args;
+
 	va_start(args, format);
 	dprintf(STDERR_FILENO, format, args);
 	va_end(args);
+
 	exit(exit_code);
 }
 
@@ -27,7 +30,8 @@ void error_and_exit(int exit_code, const char *format, ...) {
  *
  * Return: 0 on success, or an appropriate error code on failure.
  */
-int main(int argc, char *argv[]) {
+int main(int argc, char *argv[])
+{
 	int fd_from, fd_to, bytes_read, bytes_written;
 	char buffer[BUFFER_SIZE];
 
@@ -46,7 +50,8 @@ int main(int argc, char *argv[]) {
 		error_and_exit(99, "Error: Can't write to %s\n", argv[2]);
 
 	/* Read from the source file and write to the destination file */
-	while ((bytes_read = read(fd_from, buffer, BUFFER_SIZE)) > 0) {
+	while ((bytes_read = read(fd_from, buffer, BUFFER_SIZE)) > 0)
+	{
 		bytes_written = write(fd_to, buffer, bytes_read);
 		if (bytes_written == -1)
 			error_and_exit(99, "Error: Can't write to %s\n", argv[2]);

@@ -1,5 +1,4 @@
 #include "main.h"
-#include "lists.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <fcntl.h>
@@ -13,7 +12,8 @@
  *
  * Return: 1 on success, -1 on failure.
  */
-int create_file(const char *filename, char *text_content) {
+int create_file(const char *filename, char *text_content)
+{
 	int fd, bytes_written, length = 0;
 
 	/* Check if filename is NULL */
@@ -26,14 +26,16 @@ int create_file(const char *filename, char *text_content) {
 		return (-1);
 
 	/* Write text_content to the file if provided */
-	if (text_content != NULL) {
+	if (text_content != NULL)
+	{
 		/* Calculate the length of the text_content */
 		while (text_content[length])
 			length++;
 
 		/* Write the content to the file */
 		bytes_written = write(fd, text_content, length);
-		if (bytes_written == -1) {
+		if (bytes_written == -1)
+		{
 			close(fd);
 			return (-1);
 		}
