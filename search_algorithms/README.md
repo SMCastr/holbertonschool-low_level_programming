@@ -1,4 +1,5 @@
 # C Search Algorithms Project
+
 <img src="https://media.giphy.com/gifs/l1LclroiTo2qdRA4g/giphy-downsized.gif"/>
 
 This project includes C functions that implement two popular search algorithms: Linear Search and Binary Search. Additionally, it provides answers to Big O notation questions related to these algorithms.
@@ -56,6 +57,5 @@ $- gcc -Wall -Wextra -Werror -pedantic -std=gnu89 1-main.c 1-binary.c -o 1-binar
 ## Author
 This Project was created by: Miss Sweety Castro 
 The best and the wonderful women in this industry for business.
+
 <img src="https://media.giphy.com/embed/3ohs4saKDkBe5W2Eecgiphy-downsized.gif"/>
-</div>
-  
