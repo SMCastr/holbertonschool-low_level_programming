@@ -3,7 +3,7 @@
 <div classHeaderSticker>
 <img src="https://media.giphy.com/gifs/l1LclroiTo2qdRA4g/giphy-downsized.gif"/>
 </div>
-<h1 align="Center">C Search Algorithms Project </h1>
+<h1 align="Center">"https://media.giphy.com/gifs/l1LclroiTo2qdRA4g/giphy-downsized.gif"/</h1>
 </h4>
 
 This project includes C functions that implement two popular search algorithms: Linear Search and Binary Search. Additionally, it provides answers to Big O notation questions related to these algorithms.
@@ -66,7 +66,7 @@ The best and the wonderful women in this industry for business.
 <div classHeaderSticker>
 <img src="https://media.giphy.com/embed/3ohs4saKDkBe5W2Eecgiphy-downsized.gif"/>
 </div>
-<h1 align="Center">C Search Algorithms Project </h1>
+<h1 align=""https://media.giphy.com/embed/3ohs4saKDkBe5W2Eecgiphy-downsized.gif" </h1>
 </h4>
 
 This Project was created by: Miss Sweety Castro 
