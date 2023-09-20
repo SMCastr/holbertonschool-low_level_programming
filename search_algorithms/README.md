@@ -1,5 +1,10 @@
 # C Search Algorithms Project
-<iframe src="https://giphy.com/embed/l1LclroiTo2qdRA4g" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/l1LclroiTo2qdRA4g">via GIPHY</a></p>
+<h4 align="Center">
+<div classHeaderSticker>
+<img src="https://media.giphy.com/gifs/l1LclroiTo2qdRA4g/giphy-downsized.gif"/>
+</div>
+<h1 align="Center">C Search Algorithms Project </h1>
+</h4>
 
 This project includes C functions that implement two popular search algorithms: Linear Search and Binary Search. Additionally, it provides answers to Big O notation questions related to these algorithms.
 
@@ -54,7 +59,15 @@ $- gcc -Wall -Wextra -Werror -pedantic -std=gnu89 0-main.c 0-linear.c -o 0-linea
 $- gcc -Wall -Wextra -Werror -pedantic -std=gnu89 1-main.c 1-binary.c -o 1-binary
 
 ## Author
-<iframe src="https://giphy.com/embed/3ohs4saKDkBe5W2Eec" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kim-kardashian-kendall-jenner-kylie-3ohs4saKDkBe5W2Eec">via GIPHY</a></p>
+This Project was created by: Miss Sweety Castro 
+The best and the wonderful women in this industry for business.
+
+<h4 align="Center">
+<div classHeaderSticker>
+<img src="https://media.giphy.com/embed/3ohs4saKDkBe5W2Eecgiphy-downsized.gif"/>
+</div>
+<h1 align="Center">C Search Algorithms Project </h1>
+</h4>
 
 This Project was created by: Miss Sweety Castro 
 The best and the wonderful women in this industry for business.
