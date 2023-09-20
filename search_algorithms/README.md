@@ -1,5 +1,5 @@
 # C Search Algorithms Project
-<img src=https://giphy.com/gifs/l1LclroiTo2qdRA4g >via GIPHY</a></p>
+<img src=https://giphy.com/gifs/l1LclroiTo2qdRA4g>via GIPHY</a></p>
 
 This project includes C functions that implement two popular search algorithms: Linear Search and Binary Search. Additionally, it provides answers to Big O notation questions related to these algorithms.
 
@@ -34,6 +34,7 @@ The project consists of the following files:
 You can run the search algorithms and test them with the provided main programs. Here's an example of how to use them:
 
 Linear Search : .0/-linear
+
 Binary Search: ./1-binary
 
 ## Big O Notation
