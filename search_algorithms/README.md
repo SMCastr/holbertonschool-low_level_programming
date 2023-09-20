@@ -1,6 +1,4 @@
 # C Search Algorithms Project
-<h4 align="Center">
-<div classHeaderSticker>
 <img src="https://media.giphy.com/gifs/l1LclroiTo2qdRA4g/giphy-downsized.gif"/>
 </div>
 
@@ -59,11 +57,6 @@ $- gcc -Wall -Wextra -Werror -pedantic -std=gnu89 1-main.c 1-binary.c -o 1-binar
 ## Author
 This Project was created by: Miss Sweety Castro 
 The best and the wonderful women in this industry for business.
-
-<h4 align="Center">
-<div classHeaderSticker>
 <img src="https://media.giphy.com/embed/3ohs4saKDkBe5W2Eecgiphy-downsized.gif"/>
 </div>
   
-This Project was created by: Miss Sweety Castro 
-The best and the wonderful women in this industry for business.
