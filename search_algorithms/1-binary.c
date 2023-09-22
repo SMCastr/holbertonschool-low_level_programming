@@ -10,7 +10,6 @@
  *
  * Return: The index where 'value' is located, or -1 if not found.
  */
-
 int binary_search(int *array, size_t size, int value)
 {
 	size_t left = 0, right = size - 1, mid;
