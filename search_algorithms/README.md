@@ -60,9 +60,3 @@ $- gcc -Wall -Wextra -Werror -pedantic -std=gnu89 1-main.c 1-binary.c -o 1-binar
 This Project was created by: Miss Sweety Castro 
 The best and the wonderful women in this industry for business.
 
-<h4 align="Center">
-<div classHeaderSticker>
-<img src="https://media.giphy.com/embed/3ohs4saKDkBe5W2Eecgiphy-downsized.gif"/>
-</div>
-<h1 align="Center">C Search Algorithms Project </h1>
-</h4>
