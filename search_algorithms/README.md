@@ -1,9 +1,5 @@
 # C Search Algorithms Project
 
-<img src="https://media.giphy.com/media/l1LclroiTo2qdRA4g/giphy.gif"/>
-</div>
-
-
 This project includes C functions that implement two popular search algorithms: Linear Search and Binary Search. Additionally, it provides answers to Big O notation questions related to these algorithms.
 
 ## Table of Contents
