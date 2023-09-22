@@ -55,4 +55,3 @@ $- gcc -Wall -Wextra -Werror -pedantic -std=gnu89 1-main.c 1-binary.c -o 1-binar
 ## Author
 This Project was created by: Miss Sweety Castro 
 The best and the wonderful women in this industry for business.
-
